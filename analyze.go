@@ -43,6 +43,9 @@ func IsNegativeNumber(number int) {
 // ゼロとは「0」
 // ex) 0
 func IsZeroNumber(number int) {
+	if number == 0 {
+		fmt.Println(number, "は0です")
+	}
 
 }
 
