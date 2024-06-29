@@ -6,7 +6,8 @@
 
 ## 開発者
 - 各受講生の名前を記入してください。
-nakanoyumi
+- nakanoyumi
+-　kanna
 - KashiuchiSotaro
 
 ## 数値解析ソフト
