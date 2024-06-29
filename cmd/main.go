@@ -32,6 +32,7 @@ func main() {
 		analyze.IsGrothendieckPrime(inputNumber[0])
 		analyze.IsRepunitNumber(inputNumber[0])
 		analyze.IsPrimeNumber(inputNumber[0])
+		analyze.IsNegativeNumber(inputNumber[0])
 		analyze.IsPerfectNumber(inputNumber[0])
 		analyze.IsSquareNumber(inputNumber[0])
 		analyze.IsMersenneNumber(inputNumber[0])
