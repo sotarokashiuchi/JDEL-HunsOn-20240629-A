@@ -2,10 +2,9 @@
 package main
 
 import (
-	"fmt"
 	"analyze"
+	"fmt"
 )
-
 
 // 入力を受付、入力された整数の個数に合わせて各解析用関数を呼び出す関数。
 func main() {
@@ -31,6 +30,7 @@ func main() {
 		analyze.IsGrothendieckPrime(inputNumber[0])
 		analyze.IsRepunitNumber(inputNumber[0])
 		analyze.IsPrimeNumber(inputNumber[0])
+		analyze.IsNegativeNumber(inputNumber[0])
 		analyze.IsPerfectNumber(inputNumber[0])
 		analyze.IsSquareNumber(inputNumber[0])
 		analyze.IsMersenneNumber(inputNumber[0])

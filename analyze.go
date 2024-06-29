@@ -43,6 +43,10 @@ func IsPositiveNumber(number int) {
 // ex) -1, -2, -3, -4, ...
 func IsNegativeNumber(number int) {
 
+	if number <= 0 {
+		fmt.Println(number, "は負の数です")
+	}
+
 }
 
 // ゼロ判定関数。与えられた引数がゼロの場合、その趣旨を表示する
