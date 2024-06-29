@@ -28,6 +28,7 @@ func main() {
 		analyze.IsOddNumber(inputNumber[0])
 		analyze.IsEvenNumber(inputNumber[0])
 		analyze.IsZeroNumber(inputNumber[0])
+		analyze.IsPositiveNumber(inputNumber[0])
 		analyze.IsGrothendieckPrime(inputNumber[0])
 		analyze.IsRepunitNumber(inputNumber[0])
 		analyze.IsPrimeNumber(inputNumber[0])
