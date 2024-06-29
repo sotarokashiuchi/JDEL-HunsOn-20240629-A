@@ -23,6 +23,12 @@ func IsEvenNumber(number int) {
 // グロタンディーク素数とは「57の数のこと」
 func IsGrothendieckPrime(number int) {
 
+	if number == 57 {
+		fmt.Println(number, "はグロタンディーク素数です")
+	} else {
+		fmt.Println(number, "はグロタンディーク素数ではありません")
+	}
+
 }
 
 // 正の整数判定関数。与えられた引数が正の整数の場合、その趣旨を表示する
