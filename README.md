@@ -6,6 +6,7 @@
 
 ## 開発者
 - 各受講生の名前を記入してください。
+- ama-tyan
 - nakanoyumi
 -　kanna
 - KashiuchiSotaro
